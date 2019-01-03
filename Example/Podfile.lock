@@ -1,0 +1,29 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - MBProgressHUD (1.1.0)
+  - WZToolsKit (0.1.0):
+    - FMDB
+    - MBProgressHUD
+
+DEPENDENCIES:
+  - WZToolsKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  WZToolsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  WZToolsKit: 46dd0287b5ac7d3389f477622e2f8e707163cb34
+
+PODFILE CHECKSUM: db7c4b6d1f2526880ec16eac718f1f487ec8bdcd
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,30 @@
+{
+  "name": "WZToolsKit",
+  "version": "0.1.0",
+  "summary": "A short description of WZToolsKit.",
+  "description": "A short description of WZToolsKit.",
+  "homepage": "https://github.com/winfredzen/WZToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winfredzen": "wangzhen@curefun.com"
+  },
+  "source": {
+    "git": "https://github.com/winfredzen/WZToolsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZToolsKit/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WZToolsKit_Tests {
+  umbrella header "Pods-WZToolsKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
